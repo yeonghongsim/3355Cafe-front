@@ -650,12 +650,12 @@ export default function HomePage(props) {
                                 </RecentBoardListFullContainer>
                             </BodyContainerRightSmall>
                             <BodyContainerRightSmall>
-                                <IconsFullContainer>
+                                {/* <IconsFullContainer>
                                     <IconsContainer>1</IconsContainer>
                                     <IconsContainer>2</IconsContainer>
                                     <IconsContainer>3</IconsContainer>
                                     <IconsContainer>4</IconsContainer>
-                                </IconsFullContainer>
+                                </IconsFullContainer> */}
                             </BodyContainerRightSmall>
                         </BodyContainerRight>
                     </BodyContainer>
